@@ -1,6 +1,6 @@
 section {
      height: 500px;
-     background-color: wheat;
+     background-color: seashell;
      border: solid black 1.5px;
 }
 
@@ -24,8 +24,12 @@ nav {
 
 ul {
      display: flex;
+     list-style-type: none; 
+     width: 500px;
+     justify-content: space-between;
 }
 
 li {
-     width: 200px;
+     /* width: 200px; */
+     text-decoration: none; 
 }
