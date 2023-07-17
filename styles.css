@@ -39,7 +39,13 @@ h1 {
 }
 
 .hero-text {
-     margin-left: 40px;
+     margin-left: 80px;
+}
+
+.button {
+     width: 200px;
+     height: 100px;
+     background-color: pink;
 }
 
 
