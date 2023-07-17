@@ -9,3 +9,8 @@ section {
      background-color: DarkSeaGreen; 
      height: 100vh;
 }
+
+footer {
+     height: 500px;
+     background-color: black;
+}
