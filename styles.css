@@ -1,6 +1,6 @@
 section {
      height: 500px;
-     background-color: seashell;
+     background-color: #D49B7E;
      border: solid black 1.5px;
 }
 
@@ -14,7 +14,7 @@ section {
 
 footer {
      height: 500px;
-     background-color: black;
+     background-color: #893F04;
 }
 
 nav {
@@ -45,7 +45,7 @@ h1 {
 .button {
      width: 200px;
      height: 100px;
-     background-color: pink;
+     background-color: #C67F43;
 }
 
 
