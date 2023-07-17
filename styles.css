@@ -19,14 +19,14 @@ footer {
 
 nav {
      display: flex;
-     justify-content: space-around;
+     justify-content: space-between;
 }
 
 ul {
      display: flex;
      list-style-type: none; 
      width: 500px;
-     justify-content: space-between;
+     justify-content: space-around;
      font-size: 30px;
 }
 
