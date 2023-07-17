@@ -44,8 +44,10 @@ h1 {
 
 .button {
      width: 200px;
-     height: 100px;
+     height: 60px;
+     border-radius: 30px;
      background-color: lightpink;
+     text-align: center;
 }
 
 
