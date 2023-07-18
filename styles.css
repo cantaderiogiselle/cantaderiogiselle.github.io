@@ -74,6 +74,14 @@ p {
      margin-top: 20px;
 }
 
+.button:hover {
+     background-color: #F79256;
+}
+
+.button:active {
+     background-color: darkgrey;
+}
+
 
 
 
