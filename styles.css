@@ -41,6 +41,12 @@ li {
 
 h1 {
      font-size: 90px;
+     margin: 0;
+}
+
+p {
+     margin: 0;
+     font-weight: 600;
 }
 
 .hero-text {
