@@ -97,6 +97,12 @@ p {
      padding: 80px;
 }
 
+.sub-section-alternative {
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+}
+
 .about {
      font-size: 20px;
 }
