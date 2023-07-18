@@ -83,13 +83,14 @@ p {
 }
 
 .logo {
-     height: 120px;
+     height: 150px;
      margin: 30 px;
 } 
 
 .sub-section {
      display: flex;
      justify-content: space-around;
+     padding: 80px;
 }
 
 
