@@ -130,8 +130,13 @@ p {
 
 .project-two {
      width: 400px;
+     padding: 15;
 }
 
+.project-one-text {
+     display: flex;
+     text-align: center;
+}
 
 
 
