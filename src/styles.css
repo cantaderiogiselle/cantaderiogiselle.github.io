@@ -4,7 +4,7 @@ body {
 
 
 section {
-     height: 500px;
+     height: 600px;
      background-color: #9C9F84;
 }
 
@@ -125,6 +125,10 @@ p {
 
 .project-one {
      width: 800px;
+}
+
+.project-two {
+     height: 600 px;
 }
 
 
