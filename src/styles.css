@@ -4,7 +4,7 @@ body {
 
 
 section {
-     height: 600px;
+     min-height: 600px;
      background-color: #9C9F84;
 }
 
@@ -87,15 +87,18 @@ p {
 
 .logo {
      height: 200px;
-     margin: 30 px;
+     margin: 30px;
 } 
 
 .sub-section {
      display: flex;
      justify-content: space-around;
+     align-items: center;
      padding: 80px;
 }
-
+.information {
+     max-width: 600px;
+}
 .sub-section-alternative {
      display: flex;
      flex-direction: column;
@@ -108,7 +111,8 @@ p {
 }
 
 .headshot {
-     width: 400px;
+     width: 300px;
+     height: auto;
 }
 
 .project-card {
